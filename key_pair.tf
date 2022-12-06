@@ -1,0 +1,5 @@
+resource "aws_key_pair" "mykey" {
+  key_name   = "zahra-bihlal-key3"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCn2SxSa23hMRkQRwO7C3kDY8uJTx9jRRrXFH3dQepxkvykxe1OT1/kE9CrPfw2Qhbt5HGsLTt93owQUqicTM4q3hTsWqqNBKFH/emHEzFp+KFltwPPok7VvDPvkjLoHh/ODpk1uXdGfh6a06tSaYieJEvDq63+YuAM1ggEmo5j/NEmrARiGuIkYYx+UrfXSDQJRtpIHJ4BD29t1rJcvjdQYw55Qf3mNdIzdeJeGhfXO+KKhJzS3U5XKi+Pz06oJ2eVpF59CMKyXhTYuctZo44Pf1MncUUePu28uZAn9ZqA9OFWt8lhQH9TcYNNUZmXVlpZbJ9U+lvRdpwsAET6anmHf0aNGo5aCjZXsa1Ss/+e8jAFAKjkm5rR+HBd9DfrmyLB19zi1a3TXPLts6tlAqA/H7yqvAVgh8GpHvT/c1HhzG/P76ypqSNbnV54RuQvXME29BJv0MmwIeBW57953/IBG3bMUtgoBkL5GJMkg2BvtfIMTwy6x8Go9f/U5NJl/UM= zahra@DESKTOP-UTP0DQM"
+}
+
